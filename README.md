@@ -1,2 +1,3 @@
 # api-rest
-# juanito
+# CEDUC-PROGRAMACION
+COMPUTACIÓN E INFORMÁTICA
